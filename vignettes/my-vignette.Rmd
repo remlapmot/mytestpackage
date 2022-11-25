@@ -1,6 +1,8 @@
 ---
 title: "Title *with* **some** `formatting`"
 output: rmarkdown::html_vignette
+pkgdown:
+  as_is: true
 vignette: >
   %\VignetteIndexEntry{Title *with* **some** `formatting`}
   %\VignetteEngine{knitr::rmarkdown}
