@@ -1,5 +1,3 @@
 url: https://remlapmot.github.io/mytestpackage
 development:
   mode: auto
-template:
-  bootstrap: 5
