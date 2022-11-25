@@ -1,0 +1,21 @@
+---
+title: "Title *with* **some** `formatting`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Title *with* **some** `formatting`}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(mytestpackage)
+```
+
+Some text.
