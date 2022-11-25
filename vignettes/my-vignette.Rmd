@@ -19,3 +19,7 @@ library(mytestpackage)
 ```
 
 Some text.
+
+## Test *some* **more** `formatting`
+
+Some text.
